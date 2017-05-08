@@ -3,6 +3,7 @@ public class test {
         System.out.println("Hello, World!");
 	System.out.println("change 1 time!");
 	System.out.println("change 2 times!");
+	System.out.println("change 3 times!");
     }
 }
 
